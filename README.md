@@ -16,25 +16,27 @@ Visual cheat sheets, tips, y mapas mentales para dominar comandos de Linux, scri
 
 Actualmente el repositorio incluye:
 
-### 🔹 `cheatsheets/`
-Guías visuales rápidas en formato PDF e imagen:
-- `VIM_cheatsheet.pdf` — Atajos esenciales de VIM 🧠
+### 🔹 [`cheatsheets/`](https://github.com/pwnVader/pwn-cards/tree/main/cheatsheets)
+Guías visuales rápidas en formato PDF:
+- `VIM_cheatsheet.pdf` — Atajos esenciales de VIM 🧠  
 - `curl_cheatsheet.pdf` — Comandos clave para usar cURL como pro 🌐
 
-### 🔹 `linux/`
+### 🔹 [`linux/`](https://github.com/pwnVader/pwn-cards/tree/main/linux)
 Recursos visuales para entender mejor el sistema operativo:
-- `linux_directories.gif` — Mapa mental del sistema de archivos 🗂️
+- `linux_directories.gif` — Mapa mental del sistema de archivos 🗂️  
 - `offsec_linux_distros.pdf` — Top distros para hacking ético y forense 🐧
 
-### 🔹 `networking/`
-(Próximamente: infografías sobre comandos como `ip`, `ping`, `nmap`, etc.)
+### 🔹 [`networking/`](https://github.com/pwnVader/pwn-cards/tree/main/networking)
+Infografías y visuales sobre redes en Linux:
+- `linux_networking.gif` / `.png` — Comandos de red esenciales 🧠  
+- `honeypot.gif` — Ilustración de honeypots 🐝
 
-### 🔹 `scripting/`
+### 🔹 [`scripting/`](https://github.com/pwnVader/pwn-cards/tree/main/scripting)
 Imágenes educativas sobre scripting en Bash y Python:
-- `bash_scripting1.png` a `bash_scripting4.png` — Creación de escáneres de red, estructuras básicas de scripts, etc. 🛠️
+- `bash_scripting1.png` a `bash_scripting4.png` — Escáner de red y lógica de scripts 🛠️
 
-### 🔹 `cybersecurity_tools/`
-Espacio reservado para herramientas como DorkSniper, DarkScan, BruteShield, etc.
+### 🔹 [`cybersecurity_tools/`](https://github.com/pwnVader/pwn-cards/tree/main/cybersecurity_tools)
+(En construcción) Espacio para herramientas visuales como DorkSniper, DarkScan, BruteShield, etc.
 
 ---
 
